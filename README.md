@@ -30,4 +30,4 @@ coming soon
 
 
 
-# brief CODE Explanation for each code:
+# QUICK CODE Explanation for each code:
