@@ -9,21 +9,21 @@ The name of the paper associated with this code is:
 Machine Learning Image Processing Techniques on Grain Size and Grain Boundary Analysis
 
 
-#KAGGLE DATASETS AVAILABLE
+# KAGGLE DATASETS AVAILABLE
 
 the kaggle datasets available to go with this code have some notebooks as well in kaggle that may help
 
 The kaggle links are:
 
-Grains:
+# Grains:
 
 https://www.kaggle.com/datasets/peterwarren/exone-stainless-steel-316l-grains-500x
 
-Voronoi:
+# Voronoi:
 
 https://www.kaggle.com/datasets/peterwarren/voronoi-artificial-grains-gen
 
-GrainsV2:
+# GrainsV2:
 This one has the manually segmented images as well
 
 coming soon
