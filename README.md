@@ -27,3 +27,7 @@ https://www.kaggle.com/datasets/peterwarren/voronoi-artificial-grains-gen
 This one has the manually segmented images as well
 
 coming soon
+
+
+
+# brief CODE Explanation for each code:
